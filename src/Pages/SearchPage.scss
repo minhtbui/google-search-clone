@@ -1,0 +1,89 @@
+.searchPage_header {
+  display: flex;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 100;
+  align-items: flex-start;
+  padding: 30px;
+  border-bottom: 1px solid lightgray;
+  &--logo {
+    object-fit: contain;
+    height: 40px;
+    margin-right: 50px;
+  }
+  &Body > .search > .search_input {
+    margin-top: 0;
+    width: unset;
+    margin: unset;
+    max-width: unset;
+  }
+  &Body--options {
+    display: flex;
+    align-items: center;
+    color: #5f6368;
+    font-size: 14px;
+    margin-top: 20px;
+    a {
+      text-decoration: none;
+      color: gray;
+    }
+    &Left,
+    &Right {
+      display: flex;
+    }
+    &Right {
+      margin-left: 80px;
+    }
+  }
+  &Body--option {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    a {
+      margin-left: 5px;
+    }
+  }
+}
+
+.searchPage_results {
+  max-width: 650px;
+  margin-top: 20px;
+  margin-left: 240px;
+  margin-bottom: 100px;
+  &Count {
+    color: #70757a;
+    font-size: 14px;
+  }
+  .searchPage_result {
+    margin: 40px 0;
+
+    &--Title {
+      text-decoration: none;
+
+      > h2 {
+        font-weight: 500;
+        font-size: 20px;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+    // &--logoLink {
+    //   object-fit: contain;
+    //   height: 20px;
+    //   width: 20px;
+    //   margin-right: 10px;
+    //   justify-content: flex-end;
+    // }
+    &--Link {
+      color: #006621;
+      font-style: normal;
+    }
+    &--Desc {
+      font-size: 14px;
+      color: #545454;
+      margin-top: 10px;
+    }
+  }
+}

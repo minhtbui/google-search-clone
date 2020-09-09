@@ -1,0 +1,482 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - covid19",
+        "totalResults": "5730000000",
+        "searchTerms": "covid19",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "450ec2383ae655761"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - covid19",
+        "totalResults": "5730000000",
+        "searchTerms": "covid19",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "450ec2383ae655761"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.608846,
+    "formattedSearchTime": "0.61",
+    "totalResults": "5730000000",
+    "formattedTotalResults": "5,730,000,000"
+  },
+  "spelling": {
+    "correctedQuery": "covid 19",
+    "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003ecovid 19\u003c/i\u003e\u003c/b\u003e"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Coronavirus Disease 2019 (COVID-19) | CDC",
+      "htmlTitle": "Coronavirus Disease 2019 (\u003cb\u003eCOVID-19\u003c/b\u003e) | CDC",
+      "link": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+      "displayLink": "www.cdc.gov",
+      "snippet": "Coronavirus (COVID-19) Home Page.",
+      "htmlSnippet": "Coronavirus (\u003cb\u003eCOVID-19\u003c/b\u003e) Home Page.",
+      "cacheId": "B_FPQc5umtEJ",
+      "formattedUrl": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+      "htmlFormattedUrl": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsm4K2AbL8vtc4G5vMELUPpOYkvsr_I0WtmWlcfFS2kxevimNSKO3d_Ys",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "organization": [
+          {
+            "telephone": "Call 800-232-4636",
+            "url": "Email CDC-INFO"
+          }
+        ],
+        "contactpoint": [
+          {
+            "url": "U.S. Department of Health & Human Services"
+          },
+          {
+            "url": "USA.gov"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-Information-SM-1200px.jpg",
+            "cdc:content_id": "85543",
+            "article:published_time": "2020-02-11",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Centers for Disease Control and Prevention",
+            "cdc:maintained_by": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES",
+            "og:image:type": "image/jpeg",
+            "og:description": "CDC provides credible COVID-19 health information to the U.S.",
+            "twitter:creator": "@CDCgov",
+            "cdc:last_published": "2020-09-03T13:34:32Z",
+            "twitter:site": "@CDCgov",
+            "cdc:last_reviewed": "May 1, 2020",
+            "cdc:content_source": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES; DIVISION OF VIRAL DISEASES",
+            "og:type": "article",
+            "twitter:title": "Coronavirus Disease 2019 (COVID-19)",
+            "og:title": "Coronavirus Disease 2019 (COVID-19)",
+            "cdc:last_updated": "May 1, 2020",
+            "dc.date": "2020-09-03T01:27:35Z",
+            "article:author": "CDC",
+            "cdc:wcms_build": "4.9.6 - b.2764",
+            "twitter:image:src": "https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-Information-SM-1200px.jpg",
+            "cdc:template_version": "4.0",
+            "fb:app_id": "205691699516606",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "og:author": "CDC",
+            "twitter:description": "CDC provides credible COVID-19 health information to the U.S.",
+            "mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-Information-SM-1200px.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Coronavirus disease (COVID-19)",
+      "htmlTitle": "Coronavirus disease (\u003cb\u003eCOVID-19\u003c/b\u003e)",
+      "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+      "displayLink": "www.who.int",
+      "snippet": "Information on COVID-19, the infectious disease caused by the most recently \ndiscovered coronavirus.",
+      "htmlSnippet": "Information on \u003cb\u003eCOVID-19\u003c/b\u003e, the infectious disease caused by the most recently \u003cbr\u003e\ndiscovered coronavirus.",
+      "cacheId": "d_PwDItV9ewJ",
+      "formattedUrl": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+      "htmlFormattedUrl": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7dA-vfS2I9RdtG4orCmXZ8ruPoBrK38jqCrBIgnM2q9H-EW7g-UrBJR4",
+            "width": "286",
+            "height": "176"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.who.int/images/default-source/health-topics/coronavirus/corona-virus-getty.tmb-1200v.jpg?Culture=en&sfvrsn=217a6a68_30",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Coronavirus disease (COVID-19) – World Health Organization",
+            "og:locale": "en_US",
+            "og:description": "Information on COVID-19, the infectious disease caused by the most recently discovered coronavirus."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.who.int/images/default-source/health-topics/coronavirus/corona-virus-getty.tmb-1200v.jpg?Culture=en&sfvrsn=217a6a68_30"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Symptoms of Coronavirus | CDC",
+      "htmlTitle": "Symptoms of Coronavirus | CDC",
+      "link": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html",
+      "displayLink": "www.cdc.gov",
+      "snippet": "May 13, 2020 ... COVID-19 is caused by infection with a new coronavirus (called SARS-CoV-2) \nand flu is caused by infection with influenza viruses. Because ...",
+      "htmlSnippet": "May 13, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eCOVID-19\u003c/b\u003e is caused by infection with a new coronavirus (called SARS-CoV-2) \u003cbr\u003e\nand flu is caused by infection with influenza viruses. Because&nbsp;...",
+      "cacheId": "IhnnkS6doYUJ",
+      "formattedUrl": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms.../symptoms.html",
+      "htmlFormattedUrl": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms.../symptoms.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH6e68HdhekeOg83Q_MxI9ltV7YVWTRilbc4QGdd_pFsA5ngCLPCQp8Ec",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "organization": [
+          {
+            "telephone": "Call 800-232-4636",
+            "url": "Email CDC-INFO"
+          }
+        ],
+        "contactpoint": [
+          {
+            "url": "U.S. Department of Health & Human Services"
+          },
+          {
+            "url": "USA.gov"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.cdc.gov/coronavirus/2019-ncov/images/social/COVID-19-symptom-checker.jpg",
+            "article:published_time": "2020-05-13",
+            "twitter:card": "summary_large_image",
+            "cdc:content_id": "15139",
+            "og:site_name": "Centers for Disease Control and Prevention",
+            "cdc:maintained_by": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES",
+            "og:image:type": "image/jpeg",
+            "og:description": "COVID-19 has a wide range of symptoms. The Self-Checker is a guide to help make decisions on when to seek testing and appropriate medical care.",
+            "twitter:creator": "@CDCgov",
+            "cdc:last_published": "2020-09-03T13:45:39Z",
+            "twitter:site": "@CDCgov",
+            "cdc:last_reviewed": "May 13, 2020",
+            "cdc:content_source": "NATL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES; DIVISION OF VIRAL DISEASES",
+            "og:type": "article",
+            "twitter:title": "Coronavirus Disease 2019 (COVID-19) – Symptoms",
+            "og:title": "Coronavirus Disease 2019 (COVID-19) – Symptoms",
+            "cdc:last_updated": "May 13, 2020",
+            "dc.date": "2020-09-02T07:44:09Z",
+            "article:author": "CDC",
+            "twitter:image:src": "https://www.cdc.gov/coronavirus/2019-ncov/images/social/COVID-19-symptom-checker.jpg",
+            "cdc:wcms_build": "4.9.6 - b.2764",
+            "cdc:template_version": "4.0",
+            "fb:app_id": "205691699516606",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "og:author": "CDC",
+            "twitter:description": "COVID-19 has a wide range of symptoms. The Self-Checker is a guide to help make decisions on when to seek testing and appropriate medical care.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cdc.gov/coronavirus/2019-ncov/images/social/COVID-19-symptom-checker.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ADHS - Highlighted Infectious Diseases for Arizona - Coronavirus ...",
+      "htmlTitle": "ADHS - Highlighted Infectious Diseases for Arizona - Coronavirus ...",
+      "link": "https://www.azdhs.gov/schoolsCOVID19",
+      "displayLink": "www.azdhs.gov",
+      "snippet": "This dashboard is used to determine the level of community spread of COVID-19 \nin Arizona and assist with decision making for the types of delivery model ...",
+      "htmlSnippet": "This dashboard is used to determine the level of community spread of \u003cb\u003eCOVID-19\u003c/b\u003e \u003cbr\u003e\nin Arizona and assist with decision making for the types of delivery model&nbsp;...",
+      "cacheId": "plHSbi0yn_AJ",
+      "formattedUrl": "https://www.azdhs.gov/schoolsCOVID19",
+      "htmlFormattedUrl": "https://www.azdhs.gov/schools\u003cb\u003eCOVID19\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1t39xDbKoVp6uUREfOfWu0AY9QmIzlpe0Yb-s8YuMHYLZMK13z4touSo",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://azdhs.gov/assets/images/social-media-share/covid19-testing-eng.jpg",
+            "og:type": "article",
+            "og:image:width": "500",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "AZDHS | Epidemiology & Disease Control - Highlighted Infectious Disease for Arizona",
+            "og:site_name": "Arizona Department of Health Services",
+            "og:title": "AZDHS | Epidemiology & Disease Control - Highlighted Infectious Disease for Arizona",
+            "og:image:height": "500",
+            "og:description": "Working to monitor, prevent and control diseases in Arizona through education, immunization and research.",
+            "twitter:image": "http://azdhs.gov/assets/images/social-media-share/covid19-testing-eng.jpg",
+            "fb:app_id": "121858558284",
+            "twitter:site": "@azdhs",
+            "viewport": "width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0",
+            "twitter:description": "Working to monitor, prevent and control diseases in Arizona through education, immunization and research.",
+            "og:locale": "en_US",
+            "og:url": "http://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://azdhs.gov/assets/images/social-media-share/covid19-testing-eng.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "(COVID-19) advice for the public",
+      "htmlTitle": "(\u003cb\u003eCOVID-19\u003c/b\u003e) advice for the public",
+      "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "displayLink": "www.who.int",
+      "snippet": "Jun 4, 2020 ... Protect yourself and others from the spread COVID-19 · Regularly and thoroughly \nclean your hands with an alcohol-based hand rub or wash them ...",
+      "htmlSnippet": "Jun 4, 2020 \u003cb\u003e...\u003c/b\u003e Protect yourself and others from the spread \u003cb\u003eCOVID-19\u003c/b\u003e &middot; Regularly and thoroughly \u003cbr\u003e\nclean your hands with an alcohol-based hand rub or wash them&nbsp;...",
+      "cacheId": "zreGOujG8VUJ",
+      "formattedUrl": "https://www.who.int/emergencies/diseases/novel...2019/advice-for-public",
+      "htmlFormattedUrl": "https://www.who.int/emergencies/diseases/novel...2019/advice-for-public",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX18EPXVnGxqP5WbdySNpgU_ne93aHp2N5AORwCo5kBlhwdAD4JfmFPz8",
+            "width": "286",
+            "height": "176"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.who.int/images/default-source/eios-gtm-photos/corona-virus-getty.tmb-1200v.jpg?sfvrsn=cf1daef3_3",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Advice for the public on COVID-19 – World Health Organization",
+            "og:locale": "en_US",
+            "og:description": "Simple precautions to reduce your chances of being infected or spreading COVID-19."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.who.int/images/default-source/eios-gtm-photos/corona-virus-getty.tmb-1200v.jpg?sfvrsn=cf1daef3_3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "COVID 19 Response - Florida Department of Children and Families",
+      "htmlTitle": "\u003cb\u003eCOVID 19\u003c/b\u003e Response - Florida Department of Children and Families",
+      "link": "https://www.myflfamilies.com/covid19/access.shtml",
+      "displayLink": "www.myflfamilies.com",
+      "snippet": "DCF COVID-19 Information. Economic Self-Sufficiency (ACCESS). To safeguard \nthe public and employees from the spread of COVID ...",
+      "htmlSnippet": "DCF \u003cb\u003eCOVID-19\u003c/b\u003e Information. Economic Self-Sufficiency (ACCESS). To safeguard \u003cbr\u003e\nthe public and employees from the spread of \u003cb\u003eCOVID\u003c/b\u003e&nbsp;...",
+      "cacheId": "rMM3ibV9_TsJ",
+      "formattedUrl": "https://www.myflfamilies.com/covid19/access.shtml",
+      "htmlFormattedUrl": "https://www.myflfamilies.com/\u003cb\u003ecovid19\u003c/b\u003e/access.shtml",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Situation Update for COVID-19 - Minnesota Dept. of Health",
+      "htmlTitle": "Situation Update for \u003cb\u003eCOVID-19\u003c/b\u003e - Minnesota Dept. of Health",
+      "link": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "displayLink": "www.health.state.mn.us",
+      "snippet": "Sign up to receive email or mobile alerts when this data is updated, as well as \nother periodic COVID-19 updates. Updated September 8, 2020. Updated daily at \n11 ...",
+      "htmlSnippet": "Sign up to receive email or mobile alerts when this data is updated, as well as \u003cbr\u003e\nother periodic \u003cb\u003eCOVID-19\u003c/b\u003e updates. Updated September 8, 2020. Updated daily at \u003cbr\u003e\n11&nbsp;...",
+      "cacheId": "tWOOFBZtMXoJ",
+      "formattedUrl": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "htmlFormattedUrl": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "dc.creator.corporatename": "Minnesota Dept. of Health",
+            "dc.creator.personalname": "Como-Sabetti, Kathy",
+            "viewport": "width=device-width, initial-scale=1",
+            "dc.title": "Situation Update for COVID-19 - Minnesota Dept. of Health",
+            "dc.date.modified": "2020-09-08",
+            "dc.date.created": "2020-01-18",
+            "dc.language": "en"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "COVID-19 Information | AustinTexas.gov",
+      "htmlTitle": "\u003cb\u003eCOVID-19\u003c/b\u003e Information | AustinTexas.gov",
+      "link": "https://www.austintexas.gov/covid19",
+      "displayLink": "www.austintexas.gov",
+      "snippet": "Are you experiencing symptoms of COVID-19? Click the \"Take a Self-\nAssessment\" button below to take an online assessment to register for FREE \ntesting ...",
+      "htmlSnippet": "Are you experiencing symptoms of \u003cb\u003eCOVID-19\u003c/b\u003e? Click the &quot;Take a Self-\u003cbr\u003e\nAssessment&quot; button below to take an online assessment to register for FREE \u003cbr\u003e\ntesting&nbsp;...",
+      "cacheId": "cnN2c87TYSsJ",
+      "formattedUrl": "https://www.austintexas.gov/covid19",
+      "htmlFormattedUrl": "https://www.austintexas.gov/\u003cb\u003ecovid19\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjPIRIvSPN34ietEgbeg7ia0KXI6LDNF6_hUAQtd3On10yfaoAsCbBe8",
+            "width": "177",
+            "height": "285"
+          }
+        ],
+        "metatags": [
+          {
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "mobileoptimized": "width"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.austintexas.gov/sites/default/files/2020-06/COVID-19-how-to-help-promo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "COVID-19 Updates and Information | Mass.gov",
+      "htmlTitle": "\u003cb\u003eCOVID-19\u003c/b\u003e Updates and Information | Mass.gov",
+      "link": "https://www.mass.gov/info-details/covid-19-updates-and-information",
+      "displayLink": "www.mass.gov",
+      "snippet": "Stay informed about COVID-19: Latest on cases, guidance, regulations Sep. 1st, \n2020, 9:00 am Read more. Travel Order: Requirements for individuals entering ...",
+      "htmlSnippet": "Stay informed about \u003cb\u003eCOVID-19\u003c/b\u003e: Latest on cases, guidance, regulations Sep. 1st, \u003cbr\u003e\n2020, 9:00 am Read more. Travel Order: Requirements for individuals entering&nbsp;...",
+      "cacheId": "-zuNhEoryNMJ",
+      "formattedUrl": "https://www.mass.gov/info-details/covid-19-updates-and-information",
+      "htmlFormattedUrl": "https://www.mass.gov/info-details/\u003cb\u003ecovid-19\u003c/b\u003e-updates-and-information",
+      "pagemap": {
+        "metatags": [
+          {
+            "mg_title": "COVID-19 Updates and Information",
+            "mg_stakeholder_org": "Mass Digital",
+            "twitter:card": "summary",
+            "twitter:title": "COVID-19 Updates and Information",
+            "og:type": "website",
+            "og:site_name": "Mass.gov",
+            "twitter:site:id": "16264003",
+            "handheldfriendly": "true",
+            "twitter:url": "https://www.mass.gov/info-details/covid-19-updates-and-information",
+            "og:title": "COVID-19 Updates and Information",
+            "title": "COVID-19 Updates and Information | Mass.gov",
+            "og:description": "Everything you need to know about COVID-19 in Massachusetts.",
+            "mg_url": "https://www.mass.gov/info-details/covid-19-updates-and-information",
+            "twitter:site": "@massgov",
+            "mg_organization": "departmentofpublichealth,officeofgovernorcharliebakerandltgovernorkarynpolito,executiveofficeofhealthandhumanservices",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Everything you need to know about COVID-19 in Massachusetts.",
+            "mobileoptimized": "width",
+            "category": "services",
+            "og:url": "https://www.mass.gov/info-details/covid-19-updates-and-information"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "COVID-19 Status Report | Georgia Department of Public Health",
+      "htmlTitle": "\u003cb\u003eCOVID-19\u003c/b\u003e Status Report | Georgia Department of Public Health",
+      "link": "https://dph.georgia.gov/covid-19-daily-status-report",
+      "displayLink": "dph.georgia.gov",
+      "snippet": "Header Utility Narrow. COVID-19 Status Report. COVID-19 Question and Answer \nBot. Connectivity Status: Connecting… Connecting… Suggested Actions ...",
+      "htmlSnippet": "Header Utility Narrow. \u003cb\u003eCOVID-19\u003c/b\u003e Status Report. \u003cb\u003eCOVID-19\u003c/b\u003e Question and Answer \u003cbr\u003e\nBot. Connectivity Status: Connecting… Connecting… Suggested Actions&nbsp;...",
+      "cacheId": "6VPfDvz-U4gJ",
+      "formattedUrl": "https://dph.georgia.gov/covid-19-daily-status-report",
+      "htmlFormattedUrl": "https://dph.georgia.gov/\u003cb\u003ecovid-19\u003c/b\u003e-daily-status-report",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJmHp9XqhFIJxOSzFs7SV6AhNQLJZy2D1tlymTwDfqq19oVZ2Y4m0LsI",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffc40d",
+            "web-speech-cognitive-services": "version=7.0.1",
+            "og:image": "https://dph.georgia.gov/themes/custom/ga_forest/assets/images/social/pillars-placeholder-wide-stars-stripes-1.png",
+            "twitter:card": "summary",
+            "twitter:title": "COVID-19 Status Report",
+            "og:image:width": "1201",
+            "theme-color": "#ffffff",
+            "og:site_name": "Georgia Department of Public Health",
+            "botframework-webchat:bundle:variant": "full-es5",
+            "handheldfriendly": "true",
+            "twitter:url": "https://dph.georgia.gov/covid-19-daily-status-report",
+            "og:title": "COVID-19 Status Report",
+            "og:image:height": "629",
+            "botframework-webchat:core:version": "4.10.0",
+            "twitter:image": "https://dph.georgia.gov/themes/custom/ga_forest/assets/images/social/pillars-placeholder-wide-stars-stripes-1.png",
+            "botframework-webchat:bundle:version": "4.10.0",
+            "botframework-directlinespeech:version": "4.10.0",
+            "botframework-webchat:ui:version": "4.10.0",
+            "twitter:site": "@GaDPH",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "mobileoptimized": "width",
+            "react-scroll-to-bottom:version": "3.0.0",
+            "react-film": "version=2.1.0",
+            "og:url": "https://dph.georgia.gov/covid-19-daily-status-report"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dph.georgia.gov/themes/custom/ga_forest/assets/images/social/pillars-placeholder-wide-stars-stripes-1.png"
+          }
+        ]
+      }
+    }
+  ]
+}
